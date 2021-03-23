@@ -1,0 +1,12 @@
+
+.background-img{
+    height: 100vh;
+    background-image: url(../../image/Bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.div-card{
+    margin-top: 200px;
+}
